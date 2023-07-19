@@ -1,0 +1,80 @@
+#card-red{
+  transition: all 0.3s ease-out;
+}
+#card-green{
+  transition: all 0.3s ease-out;
+}
+#card-red:hover {
+  transform: translateY(-5px);
+  cursor: pointer;
+}
+
+#card-green:hover {
+  transform: translateY(-5px);
+  cursor: pointer;
+}
+
+#gpBebida:hover{
+  transform: translateY(-5px);
+  cursor: pointer;
+}
+#gpMaleta:hover{
+  transform: translateY(-5px);
+  cursor: pointer;
+}
+#gpTigela:hover{
+  transform: translateY(-5px);
+  cursor: pointer;
+}
+
+#gpBebida{
+  transition: all 0.3s ease-out;
+}
+
+#gpMaleta{
+  transition: all 0.3s ease-out;
+}
+
+#gpTigela{
+  transition: all 0.3s ease-out;
+}
+
+.boxBebida{
+  background-color: #f6d553;
+}
+
+.boxMaleta{
+  background-color: #f9879c;
+}
+
+.boxTigela{
+  background-color: #8c60c5;
+}
+
+#imgBebida{
+  width: 100px;
+  margin-top: -46px;
+}
+
+#imgMaleta{
+  width: 100px;
+  margin-top: -39px;
+ }
+
+#imgTigela{
+  width: 100px;
+  margin-top: -27px;
+ } 
+
+.cardlogin{
+  margin-left: 1000px;
+}
+
+
+#iniciofooter{
+  margin-top: 40px;
+  margin-bottom: 60px;
+  height: 60px;
+  width: 100%;
+  background-color: rgb(238, 238, 238);
+}
