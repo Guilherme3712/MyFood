@@ -16,7 +16,7 @@ Aplicação Web feita em laravel, inspirada no site do Ifood
 ## Como usar
 - Navegue pela aplicação na página inicial, clique no card "Restaurante" e seja redirecionado para a listagem de lojas cadastradas.
 
-## Imagem da aplicação
+## Imagens da aplicação
 
 <h3>Home</h3>
 
